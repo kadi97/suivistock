@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule ^accueil$ http://localhost/suivistock/accueil.php
+RewriteRule ^formulaire_produit$  http://localhost/suivistock/pages/forms-layouts.php
+RewriteRule ^statistique$ http://localhost/suivistock/pages/statistique.php
